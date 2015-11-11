@@ -2,5 +2,6 @@ gems:
   - jekyll-redirect-from
   
 title: To Scavengers
-redirect_to:
+redirect_from:
+  - /
   - /scavengers/
