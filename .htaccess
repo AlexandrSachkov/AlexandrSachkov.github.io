@@ -1,4 +1,4 @@
 Options +FollowSymLinks
 
 RewriteEngine On
-RewriteRule ^*$ http://alexandrsachkov.github.io/scavengers/ [R=301,L]
+RewriteRule ^$ /scavengers [L]
